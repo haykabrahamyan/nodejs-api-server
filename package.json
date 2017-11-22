@@ -1,0 +1,32 @@
+{
+  "name": "nodejs-api-server",
+  "version": "1.0.0",
+  "description": "Simple API server created on nodejs which can be easily modified and extended",
+  "main": "server.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devabrahamyan/nodejs-api-server.git"
+  },
+  "keywords": [
+    "nodejs",
+    "api",
+    "server",
+    "rest",
+    "json",
+    "status",
+    "response",
+    "express"
+  ],
+  "author": "Hayk Abrahamyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devabrahamyan/nodejs-api-server/issues"
+  },
+  "homepage": "https://github.com/devabrahamyan/nodejs-api-server#readme"
+}
