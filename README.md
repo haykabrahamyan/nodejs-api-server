@@ -49,5 +49,5 @@ Request header - use 'Content-Type' header with value 'application/x-www-form-ur
 |get all together |/collection| | GET |
 
 
-###third party API
+### third party API
 on the coding process used third party api from [jsonplaceholder.typicode.com](http://jsonplaceholder.typicode.com)
